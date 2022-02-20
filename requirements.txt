@@ -1,0 +1,4 @@
+imgkit==1.2.2
+pdfkit==1.0.0
+six==1.16.0
+wkhtmltopdf==0.2
